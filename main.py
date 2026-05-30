@@ -3,6 +3,8 @@ import csv
 import json
 import os
 
+# Comentario de teste para o git
+
 try:
     import tkinter as tk
     from tkinter import ttk, messagebox
