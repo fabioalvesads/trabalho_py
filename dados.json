@@ -1,0 +1,36 @@
+{
+    "alunos": [
+        {
+            "matricula": 1,
+            "nome": "Luara",
+            "data_nascimento": "12/23/2098"
+        },
+        {
+            "matricula": 2,
+            "nome": "Brysa",
+            "data_nascimento": "12/23/2021"
+        },
+        {
+            "matricula": 3,
+            "nome": "matheus",
+            "data_nascimento": "01/0/23"
+        }
+    ],
+    "disciplinas": [
+        {
+            "id": 1,
+            "nome": "ADS",
+            "turno": "N",
+            "sala": "209",
+            "professor": "Fulano"
+        }
+    ],
+    "notas": [
+        {
+            "id": 1,
+            "valor": 8.0,
+            "matricula": 1,
+            "disciplina_id": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+===== ALUNOS =====
+
+Matrícula: 1
+Nome: Luara
+Nascimento: 12/23/2098
+
+Matrícula: 2
+Nome: Brysa
+Nascimento: 12/23/2021
+
+Matrícula: 3
+Nome: matheus
+Nascimento: 01/0/23
+
+===== DISCIPLINAS =====
+
+ID: 1
+Nome: ADS
+Turno: N
+Sala: 209
+Professor: Fulano
+
+===== NOTAS =====
+
+ID: 1
+Nota: 8.0
+Matrícula: 1
+Disciplina ID: 1
+
